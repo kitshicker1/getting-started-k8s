@@ -10,4 +10,4 @@ spec:
     - name: web-ctr
       image: nigelpoulton/getting-started-k8s:1.0
       ports:
-        - containerPort: 8080
+        - containerPort: 9090
